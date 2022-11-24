@@ -1,0 +1,19 @@
+.intro__subtitle {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.2;
+    margin-top: 0;
+    max-width: 294px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-bottom: 0;
+}
+
+@media all and (max-width:425px) {
+    .intro__subtitle {
+        font-size: 14px;
+        max-width: 255px;
+    }
+}

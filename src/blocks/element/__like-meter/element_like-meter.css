@@ -1,0 +1,9 @@
+.element_like-meter{
+    text-align: center;
+    font-weight: 400;
+    font-size: 13px;
+    margin-top: 3px;
+    line-height: 16px;
+    color: #000000;
+    max-width: 22px;
+}

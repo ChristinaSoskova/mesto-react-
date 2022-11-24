@@ -1,0 +1,16 @@
+.popup__text {
+    display: flex;
+    flex-direction: column;
+    width: 358px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 24px;
+}
+
+
+@media all and (max-width:535px) {
+    .popup__text {
+        width: 238px;
+        margin-top: 45px;
+    }
+}

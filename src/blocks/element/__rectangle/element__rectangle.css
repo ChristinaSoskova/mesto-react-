@@ -1,0 +1,4 @@
+.element__rectangle {
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,9 @@
+.element {
+   background-color: #FFFFFF;
+   border-radius: 10px;
+   max-width: 282px;
+   max-height: 361px;
+   margin-left: auto;
+   margin-right: auto;
+   position: relative;
+}
