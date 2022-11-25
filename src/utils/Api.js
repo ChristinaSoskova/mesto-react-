@@ -1,3 +1,4 @@
+
 class Api {
   #onResponce(res) {
     if (res.ok) {
@@ -86,5 +87,6 @@ const api = new Api({
     "Content-Type": "application/json",
   },
 });
+
 
 export default api;

@@ -40,3 +40,15 @@
 @import url(../src/blocks/profile/__avatar-edit/profile__avatar-edit.css);
 @import url(../src/blocks/element/__like-meter/element_like-meter.css);
 @import url(../src/blocks/element/__likes/element__likes.css);
+@import url(../src/blocks/auth/auth.css);
+@import url(../src/blocks/auth/__input/auth__input.css);
+@import url(../src/blocks/auth/__button/auth__button.css);
+@import url(../src/blocks/header/__auth-button/header__auth-button.css);
+@import url(../src/blocks/auth/__title/auth__title.css);
+@import url(../src/blocks/singup/__link/singup__link.css);
+@import url(../src/blocks/popup/__check/_img/popup__check_img.css);
+@import url(../src/blocks/popup/__check/popup__check.css);
+@import url(../src/blocks/popup/__check/_text/popup__check_text.css);
+@import url(../src/blocks/header/__button/header__button.css);
+@import url(../src/blocks/header/__links/header__links.css);
+@import url(../src/blocks/header/__email/header__email.css);
